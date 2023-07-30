@@ -10,7 +10,7 @@ Incluye una descripción de su motivación, experiencia, proyectos, artículos p
 
 También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
 
-Puedes ver mi portafolio aqui: [Portafolio](https://mellifluous-sopapillas-1212f0.netlify.ap).
+Puedes ver mi portafolio aqui: [PORTAFOLIO](https://mellifluous-sopapillas-1212f0.netlify.app).
 
 ## 🪷Tecnologías🪷
 
